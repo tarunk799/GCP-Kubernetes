@@ -1,2 +1,2 @@
 # GCP-Kubernetes
-IAAC for kubernetes  setupin GCP
+IAAC for kubernetes  setup in GCP
